@@ -1,6 +1,7 @@
 name: diabetes-inference-env
 dependencies:
-  - python=3.6.2
+  - python=3.7.1
+  - pip=20.1
   - pip:
     - azureml-defaults
     - scikit-learn==0.21.3
